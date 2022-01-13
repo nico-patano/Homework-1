@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* backround color */
 body {
     background-color: #d9dcd6;
 }
 
+/* styling for header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +26,7 @@ body {
     color: #d9dcd6;
 }
 
+/* style for nav */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -75,6 +78,7 @@ p {
     margin-left: 20px;
 }
 
+/* style for side area */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -105,7 +109,7 @@ p {
     max-width: 150px;
 }
 
-
+/* style for main cards section */
 .cards {
     margin-bottom: 20px;
     padding: 50px;
@@ -128,7 +132,7 @@ p {
 }
 
 
-
+/* style for footer */
 .footer {
     padding: 30px;
     clear: both;
